@@ -1,0 +1,7 @@
+C:\Users\nix20\source\repos\ServerFTestfSBKis\bin\Debug\ServerFTestfSBKis.exe.config
+C:\Users\nix20\source\repos\ServerFTestfSBKis\bin\Debug\ServerFTestfSBKis.exe
+C:\Users\nix20\source\repos\ServerFTestfSBKis\bin\Debug\ServerFTestfSBKis.pdb
+C:\Users\nix20\source\repos\ServerFTestfSBKis\obj\Debug\ServerFTestfSBKis.csproj.AssemblyReference.cache
+C:\Users\nix20\source\repos\ServerFTestfSBKis\obj\Debug\ServerFTestfSBKis.csproj.CoreCompileInputs.cache
+C:\Users\nix20\source\repos\ServerFTestfSBKis\obj\Debug\ServerFTestfSBKis.exe
+C:\Users\nix20\source\repos\ServerFTestfSBKis\obj\Debug\ServerFTestfSBKis.pdb

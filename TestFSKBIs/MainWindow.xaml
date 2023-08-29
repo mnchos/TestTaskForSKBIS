@@ -1,0 +1,22 @@
+﻿<Window x:Class="TestFSKBIs.MainWindow"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Client Application" Height="350" Width="450">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20">
+            <TextBlock Text="Количество мусорных байтов в начале:" Margin="0 0 0 5"/>
+            <TextBox x:Name="HeaderBytesTextBox" Width="100" Margin="0 0 0 10"/>
+
+            <TextBlock Text="Количество мусорных байтов в конце:" Margin="0 0 0 5"/>
+            <TextBox x:Name="FooterBytesTextBox" Width="100" Margin="0 0 0 10"/>
+
+            <TextBlock Text="Байты данных:" Margin="0 0 0 5"/>
+            <TextBox x:Name="DataTextBox" Width="200" Margin="0 0 0 10"/>
+
+            <Button Content="Отправить" Width="100" HorizontalAlignment="Center" Click="SendButton_Click" Margin="0 10 0 0"/>
+
+            <TextBlock x:Name="ResponseTextBox" Text="" Margin="0 20 0 0"/>
+        </StackPanel>
+    </Grid>
+</Window>
+

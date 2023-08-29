@@ -1,0 +1,14 @@
+C:\Users\nix20\source\repos\TestFSKBIs\bin\Debug\TestFSKBIs.exe.config
+C:\Users\nix20\source\repos\TestFSKBIs\bin\Debug\TestFSKBIs.exe
+C:\Users\nix20\source\repos\TestFSKBIs\bin\Debug\TestFSKBIs.pdb
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\TestFSKBIs.csproj.AssemblyReference.cache
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\MainWindow.baml
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\MainWindow.g.cs
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\App.g.cs
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\TestFSKBIs_MarkupCompile.cache
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\TestFSKBIs.g.resources
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\TestFSKBIs.Properties.Resources.resources
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\TestFSKBIs.csproj.GenerateResource.cache
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\TestFSKBIs.csproj.CoreCompileInputs.cache
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\TestFSKBIs.exe
+C:\Users\nix20\source\repos\TestFSKBIs\obj\Debug\TestFSKBIs.pdb
