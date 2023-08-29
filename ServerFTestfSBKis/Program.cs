@@ -33,8 +33,7 @@ namespace ServerFTestfSBKis
             using (NetworkStream stream = client.GetStream())
             {
                 byte[] data = new byte[client.ReceiveBufferSize];
-                int bytesRead = stream.Read(data, 0, data.Length);
-                Console.WriteLine($"Данные байты: {BitConverter.ToString(data)}");
+                int bytesRead = stream.Read(data, 0, data.Length);             
                 int startIndex = Array.IndexOf(data, (byte)0x0A);
                 int endIndex = Array.IndexOf(data, (byte)0x0B, startIndex);
 
@@ -46,7 +45,7 @@ namespace ServerFTestfSBKis
                     Console.WriteLine("Получен пакет данных:");
                     Console.WriteLine($"Мусорные байты в начале: {BitConverter.ToString(data, 0, startIndex)}");
                     Console.WriteLine($"Данные байты: {BitConverter.ToString(dataBytes)}");
-                   // Console.WriteLine($"Мусорные байты в конце: {BitConverter.ToString(data, endIndex + 1)}");
+                    // Console.WriteLine($"Мусорные байты в конце: {BitConverter.ToString(data, endIndex + 1)}");
 
                     int sum = 0;
                     foreach (byte b in dataBytes)
